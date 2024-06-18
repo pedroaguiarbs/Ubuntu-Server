@@ -11,16 +11,4 @@ A administração de servidores é uma prática essencial para garantir a funcio
 
 Este projeto não apenas fornece um guia prático para a configuração de um servidor Ubuntu Server 24.04, mas também serve como um recurso educacional para estudantes e profissionais que desejam aprofundar seus conhecimentos em administração de servidores e serviços de rede.
 
----
-
-## Sumário
-
-- Instalação da Máquina Virtual
-- Primeiras Configuras do Servidor
-- Apache
-- DNS
-- SAMBA
-- PROFTPD
-- DHCP
-- SQUID
-- Conclusão
+[Wiki Completa do Projeto!](https://github.com/pedroaguiarbs/Ubuntu-Server/wiki) 🚀
